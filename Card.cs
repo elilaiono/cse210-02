@@ -18,13 +18,6 @@ namespace cse210_02
 
         }
 
-        /// <summary>
-        /// Generates a new random value for the card
-        /// </summary>
-        // public int NewCard() {
-
-            
-        // }
 
     }
 }
